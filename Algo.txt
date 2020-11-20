@@ -1,3 +1,6 @@
 Decide which business to order from
 Decide which type of pizza to order
 call restaurant
+place order
+pay with credit card
+wait for pizza
